@@ -1,1 +1,3 @@
-Theme : AJ | aj@lkn.io | @ajlkn
+ # deathlyface.github.io
+ has been moved to https://deathlyface.tech.
+ 
